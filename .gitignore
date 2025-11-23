@@ -45,6 +45,7 @@ lerna-debug.log*
 # Dockerfileを除外
 Dockerfile
 devcontainer.json
+
 # temp directory
 .temp
 .tmp
